@@ -1,5 +1,4 @@
 Hi, I am Anna Maniuk. I **write Android applications**.  I am based in Miami, FL, USA 🌴<br />
-<br />
 <ul>
   <li> I started off my engineering career as a web developer and have experience working with jQuery, React, Bootstrap, NodeJs and Cordova.</li>
   <li> I then developed a keen interest in the Android platform and the Kotlin programming language.</li>
