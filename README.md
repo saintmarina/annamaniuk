@@ -7,7 +7,7 @@ I started off my engineering career as a web developer and have experience worki
 🔨 I am currently working on [NeuroFit](https://github.com/saintmarina/alpha_training), an Android brainwave visualizer for the Open BCI brain EEG machine, because of my recently discovered passion for neuroscience🧠
 
 🤝 Social:<br />
-Email: anna@maniuk.nyc
+Email: anna@maniuk.nyc<br />
 LinkedIn: https://www.linkedin.com/in/anna-maniuk/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saintmarina)
