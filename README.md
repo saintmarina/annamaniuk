@@ -10,5 +10,5 @@ I started off my engineering career as a web developer and have experience worki
 Email: anna@maniuk.nyc<br />
 LinkedIn: https://www.linkedin.com/in/anna-maniuk/
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=saintmarina)
+![Github stats](https://github-readme-stats.vercel.app/api?username=saintmarina)<br />
 ![counter](https://enkfvzifjhuftti.m.pipedream.net)
