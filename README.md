@@ -1,10 +1,15 @@
-Hi, I am Anna Maniuk. I engineer applications for the Android platform.  I am based in Miami, FL, USA🌴
+Hi, I am Anna Maniuk. I write Android applications.  I am based in Miami, FL, USA 🌴
+🦹‍♀️ About me:
+<ul>
+  <li> I started off my engineering career as a web developer and have experience working with jQuery, React, Bootstrap,and NodeJs.</li>
+  <li> I then developed a keen interest in the Android platform and Kotlin programming language.</li>
+  <li> I believe that the Android arena has huge potential and it should run in every device with a touch screen. </li>
+  <li> I have two real-word Android projects under my belt and I would like to do more. </li>
+</ul>
 
-I started off my engineering career as a web developer and have experience working with jQuery, React, JavaScript, HTML/CSS, Bootstrap, NodeJs, and Python. After participating in an Android project, I developed a keen interest in the Android platform and Kotlin programming language. I believe that the Android arena has huge potential and I would like to participate in its advancement. I love working with Android Studio and am comfortable with the Android framework, Kotlin, and Java programming languages. 
+📚 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I  started developing [NeuroFit](https://github.com/saintmarina/alpha_training), an Android brainwave visualizer for the Open BCI brain EEG machine.<br />
 
-📚 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I focused on becoming a better programmer.
-
-🔨 I am currently working on [NeuroFit](https://github.com/saintmarina/alpha_training), an Android brainwave visualizer for the Open BCI brain EEG machine, because of my recently discovered passion for neuroscience🧠
+🔨 I am currently working on [NeuroFit](https://github.com/saintmarina/alpha_training), because of my passion for psychology and mental health🧠<br />
 
 🤝 Social:<br />
 Email: anna@maniuk.nyc<br />
