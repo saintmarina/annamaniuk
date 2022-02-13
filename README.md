@@ -11,6 +11,7 @@ About me:<br />
 📚 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I  started developing [NeuroFit](https://github.com/saintmarina/neurofit), an Android neuro feedback training app for the Open BCI brain EEG machine.<br />
 
 🔨 I am currently working on [NeuroFit](https://github.com/saintmarina/neurofit), because of my passion for psychology and mental health 🧠<br />
+
 ---
 
 🤝 Social:<br />
