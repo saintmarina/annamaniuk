@@ -6,7 +6,7 @@ Hi, I am Anna Maniuk. I **write Android applications**.  I am based in Miami, FL
   <li> I have two real-word Android projects under my belt and I would like to do more. </li>
 </ul>
 
-📚 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I  started developing [NeuroFit](https://github.com/saintmarina/neurofit), an Android neuro feedback training app for the Open BCI brain EEG machine.<br />
+📚 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I  started developing [NeuroFit](https://github.com/saintmarina/neurofit), an Android neurofeedback training app for the OpenBCI brain EEG machine.<br />
 
 🔨 I am currently working on [NeuroFit](https://github.com/saintmarina/neurofit), because of my passion for psychology and mental health 🧠<br />
 
