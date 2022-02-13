@@ -4,7 +4,7 @@ I started off my engineering career as a web developer and have experience worki
 
 📚 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I focused on becoming a better programmer.
 
-🔨 I am currently working on NeuroFit, an Android brainwave visualizer for the Open BCI brain EEG machine, because of my recently discovered passion for neuroscience🧠
+🔨 I am currently working on [NeuroFit](https://github.com/saintmarina/alpha_training), an Android brainwave visualizer for the Open BCI brain EEG machine, because of my recently discovered passion for neuroscience🧠
 
 🤝 Social
 Email: anna@maniuk.nyc
