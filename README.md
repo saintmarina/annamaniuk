@@ -1,4 +1,4 @@
-Hi, I am Anna Maniuk. I **write Android applications**.  I am based in Miami, FL, USA 🌴<br />
+Hi, I am Anna Steel. I **write Android applications**.  I am based in Miami, FL, USA 🌴<br />
 <ul>
   <li> I started off my engineering career as a web developer and have experience working with jQuery, React, NodeJs and Cordova.</li>
   <li> I then developed a keen interest in the Android platform and the Kotlin programming language.</li>
@@ -10,11 +10,12 @@ Hi, I am Anna Maniuk. I **write Android applications**.  I am based in Miami, FL
 
 🔨 I am currently working on [NeuroFit](https://github.com/saintmarina/neurofit), because of my passion for psychology and mental health 🧠<br />
 
+
 ---
 
 🤝 Social:<br />
-Email: anna@maniuk.nyc<br />
-LinkedIn: https://www.linkedin.com/in/anna-maniuk/
+Email: theannasteel@gmail.com<br />
+LinkedIn: https://www.linkedin.com/in/the-anna-steel
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=saintmarina)<br />
 ![counter](https://enkfvzifjhuftti.m.pipedream.net)
