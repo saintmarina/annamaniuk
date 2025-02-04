@@ -1,4 +1,6 @@
 Hi, I am Anna Steel. I **write Android applications**.  I am based in Miami, FL, USA 🌴<br />
+💼 I am currently working as a **Senior Android Developer at Accenture**, specializing in building **native Android applications** and **Kotlin Multiplatform** solutions with **Jetpack Compose UI, Decompose navigation, and native SwiftUI**.<br />
+
 <ul>
   <li> I started off my engineering career as a web developer and have experience working with jQuery, React, NodeJs and Cordova.</li>
   <li> I then developed a keen interest in the Android platform and the Kotlin programming language.</li>
